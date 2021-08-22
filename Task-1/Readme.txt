@@ -1,7 +1,3 @@
-// Name: Karan Waghela
-// Student ID: W1609478
-
-CN Program Assignment 1:
 
 Problem Statement-
 Client using customized protocol on top of UDP protocol for sending information to the server.
